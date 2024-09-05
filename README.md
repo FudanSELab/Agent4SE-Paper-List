@@ -4,7 +4,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 :page_facing_up: Paper Link: [Large Language Model-Based Agents for Software Engineering: A Survey](to be filled)
 
-
+<br>
 
 ## :newspaper: News
 
@@ -14,19 +14,19 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ## Table of Contents
 
-* [:man_technologist: Maintainers](#maintainers)
+* [👨🏻‍💻Maintainers](#maintainers)
 
-* [:mailbox_with_mail: Contact Us](#contact-us)
+* [📬Contact Us](#contact-us)
 
 
 
-## :man_technologist: Maintainers
+## 👨🏻‍💻 Maintainers
 
 - Junwei Liu @[To-D](https://github.com/To-D)
 
 
 
-## :mailbox_with_mail:Contact Us
+## 📬Contact Us
 
 Feel free to ask any questions  or provide us with some suggestions via:
 
