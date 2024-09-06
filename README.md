@@ -1,4 +1,4 @@
-# Agent4SE Paper List
+# Large Language Model-Based Agents for Software Engineering: A Survey
 
 <p>
 <a href="http://arxiv.org/pdf/2409.02977"><img src='https://img.shields.io/badge/ArXiv-Paper-purple'/></a> 
@@ -12,7 +12,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 <br/>
 
-## :newspaper: News
+## 📰 News
 
 * **[2024/09/04]**  We released the first version of our survey on arXiv.
 
@@ -29,6 +29,8 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ## Table of Contents
 
+* 📰 [News](#-news)
+* 🏎️[Coming Soon](#-coming-soon)
 * 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#requirement-engineering)
   * [Code Generation](#code-generation)
