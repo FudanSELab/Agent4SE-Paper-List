@@ -114,7 +114,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 Feel free to ask any questions  or provide us with some suggestions via:
 
-* Junwei Liu: [jwliu24@m.fudan.edu.cn](mailto: jwliu24@m.fudan.edu.cn)
+* Junwei Liu: jwliu24@m.fudan.edu.cn
 
 <br/>
 
