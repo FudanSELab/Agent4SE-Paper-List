@@ -22,6 +22,8 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ⬜ Complete the list of all papers from Agent Perspectives.
 
+⬜ Append the code repository link of each paper.
+
 ⬜ Provide an interactive table.
 
 <br/>
