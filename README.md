@@ -106,7 +106,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 - Junwei Liu @[To-D](https://github.com/To-D)
 - Kaixin Wang @[wkx228](https://github.com/wkx228)
-- Yixuan Chen @[FloridaSpidee](FloridaSpidee)
+- Yixuan Chen @[FloridaSpidee](https://github.com/FloridaSpidee)
 
 <br/>
 
