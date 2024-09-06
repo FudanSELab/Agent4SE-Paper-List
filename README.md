@@ -16,7 +16,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 * **[2024/09/04]**  We released the first version of our survey on arXiv.
 
-
+<br/>
 
 ## 🏎️Coming Soon
 
@@ -24,7 +24,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ⬜ Provide an Interactive table.
 
-
+<br/>
 
 
 ## Table of Contents
@@ -50,7 +50,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 * 📬 [Contact Us](#-contact-us)
 * 🌟 [Star History](#-star-history)
 
-
+<br/>
 
 ## 🖥️ SE Perspectives
 
@@ -77,13 +77,13 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ### ... 
 
-
+<br/>
 
 ## 🤖 Agent Perspectives
 
 ### ...
 
-
+<br/>
 
 
 ## 📝 Citation
@@ -100,7 +100,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 }
 ```
 
-
+<br/>
 
 ## 👨🏻‍💻 Maintainers
 
@@ -108,7 +108,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 - Kaixin Wang @[wkx228](https://github.com/wkx228)
 - Yixuan Chen @[FloridaSpidee](FloridaSpidee)
 
-
+<br/>
 
 ## 📬 Contact Us
 
@@ -116,7 +116,7 @@ Feel free to ask any questions  or provide us with some suggestions via:
 
 * Junwei Liu: [jwliu24@m.fudan.edu.cn](mailto: jwliu24@m.fudan.edu.cn)
 
-
+<br/>
 
 ## 🌟 Star History
 
