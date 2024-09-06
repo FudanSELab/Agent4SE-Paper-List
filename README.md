@@ -18,7 +18,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 <br/>
 
-## 🏎️Coming Soon
+## 🏎️ Coming Soon
 
 ⬜ Complete the list of all papers from Agent Perspectives.
 
@@ -30,7 +30,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 ## Table of Contents
 
 * 📰 [News](#-news)
-* 🏎️[Coming Soon](#-coming-soon)
+* 🏎️ [Coming Soon](#%EF%B8%8F-coming-soon)
 * 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#requirement-engineering)
   * [Code Generation](#code-generation)
