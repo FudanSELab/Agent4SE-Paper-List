@@ -29,7 +29,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ## Table of Contents
 
-* 🖥️ [SE Perspectives](#-se-perspectives)
+* 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#-requirement-engineering)
   * [Code Generation](#-code-generation)
   * [Static Code Checking](#-static-checking)
