@@ -278,7 +278,7 @@ To be filled soon.
 
 <br/>
 
-#### 	Perception
+#### Perception
 
 **Visual Input**
 
@@ -302,7 +302,35 @@ To be filled soon.
 
 ### Human-Agent Collaboration
 
-To be filled soon.
+#### Planning Phase
+
+* [2023/04] **Low-code LLM: Visual Programming over LLMs.** *Cai et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08103v3)] [[repo](https://github.com/chenfei-wu/TaskMatrix/tree/main/LowCodeLLM)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2024/01] **LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems.** *Fakih et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.05443)] [[repo](https://sites.google.com/uci.edu/llm4plc/home)]
+* [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
+
+#### Requirements Phase
+
+* [2023/10] **ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification.** *Mu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.10996)] [[repo](https://github.com/ClarifyGPT/ClarifyGPT)]
+* [2024/02] **Executable Code Actions Elicit Better LLM Agents.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.01030)] [[repo](https://github.com/xingyaoww/code-act)]
+* [2023/06] **Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services.** *Xing et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.02230)]
+* [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+
+#### Development Phase
+
+* [2023/08] **Flows: Building Blocks of Reasoning and Collaborating AI.** *Josifoski et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.01285)] [[repo](https://github.com/epfl-dlab/cc_flows)]
+* [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.08155)] [[repo](https://github.com/microsoft/autogen)]
+* [2024/01] **LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems.** *Fakih et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.05443)] [[repo](https://sites.google.com/uci.edu/llm4plc/home)]
+* [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
+* [2023/09] **MINT: EVALUATING LLMS IN MULTI-TURN INTERACTION WITH TOOLS AND LANGUAGE FEEDBACK.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.10691)] [[repo](https://xingyaoww.github.io/mint-bench)]
+
+#### Evaluation Phase
+
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2023/06] **Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services.** *Xing et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.02230)]
+* [2023/03] **ART: Automatic multi-step reasoning and tool-use for large language models.** *Paranjape et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.09014)] [[repo](https://github.com/bhargaviparanjape/language-programmes/)]
+* [2023/08] **Gentopia: A Collaborative Platform for Tool-Augmented LLMs.** *Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04030)] [[repo](https://github.com/Gentopia-AI/Gentopia)]
 
 <br/>
 
