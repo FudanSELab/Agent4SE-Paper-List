@@ -54,6 +54,8 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
     * [Perception](#perception)
     * [Action](#action)
   * [Multi-agent System](#multi-agent-system)
+    * [Agent Roles](#agent-roles)
+    * [Collaboration Mechanism](#collaboration-mechanism)
   * [Human-Agent Collaboration](#human-agent-collaboration)
     * [Planning Phase](#planning-phase)
     * [Requirements Phase](#requirements-phase)
@@ -181,9 +183,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 #### Program Repair
 * [2024/04] **Flakiness Repair in the Era of Large Language Models.** *Chen et al. arXiv.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3639478.3641227)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
-* [2024/03] **ACFIX: Guiding LLMs with Mined Common
-  RBAC Practices for Context-Aware Repair of
-  Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
+* [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/02] **CigaR: Cost-efficient Program Repair with LLMs.** *Hidvégi et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]
 * [2023/04] **Explainable Automated Debugging via Large Language Model-driven Scientific Debugging.** *Kang et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.02195)]
 * [2023/04] **Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT.** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.00385)]
@@ -335,7 +335,162 @@ To be filled soon.
 
 ### Multi-agent System
 
-To be filled soon.
+#### Agent Roles
+
+**Manager Roles**
+
+* [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
+* [2024/05] **Iterative Experience Refinement of Software-Developing Agents.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.04219)]
+* [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
+* [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
+* [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
+* [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
+* [2023/12] **Experiential Co-Learning of Software-Developing Agents.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2312.17025)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/11] **Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing.** *Yoon et al. Arxiv.* [[paper](https://arxiv.org/pdf/2311.08649)] [[repo](https://github.com/testing-agent/droidagent)]
+* [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.02424)]
+* [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
+* [2023/09] **AutoAgents: A Framework for Automatic Agent Generation.** *Chen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2309.17288)] [[repo](https://github.com/Link-AGI/AutoAgents)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/04] **Low-code LLM: Visual Programming over LLMs.** *Cai et al. Arxiv.* [[paper](https://arxiv.org/pdf/2304.08103v3)] [[repo](https://github.com/chenfei-wu/TaskMatrix/tree/main/LowCodeLLM)]
+* [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
+
+**Requirement Analyzing Roles**
+
+* [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
+* [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
+* [2024/04] **Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation.** *Ataei et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.16045)]
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+* [2023/04] **Self-collaboration Code Generation via ChatGPT.** *Dong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2304.07590)] [[repo](https://github.com/YihongDong/Self-collaboration-Code-Generation)]
+* [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
+
+**Designer Roles**
+
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Chen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.10848)] [[repo](https://github.com/OpenBMB/AgentVerse/)]
+* [2023/07] **Communicative Agents for Software Development.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+
+**Developer Roles**
+
+* [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
+* [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
+* [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
+* [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
+* [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
+* [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
+* [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2023/12] **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation.** *Huang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2312.13010)]
+* [2023/11] **INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2311.09868)] [[repo](https://github.com/NEUIR/INTERVENOR)]
+* [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Wu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.08155)] [[repo](https://github.com/microsoft/autogen)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Chen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.10848)] [[repo](https://github.com/OpenBMB/AgentVerse/)]
+* [2023/07] **Communicative Agents for Software Development.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
+* [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+* [2023/04] **Self-collaboration Code Generation via ChatGPT.** *Dong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2304.07590)] [[repo](https://github.com/YihongDong/Self-collaboration-Code-Generation)]
+* [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
+
+**Software Quality Assurance Roles**
+
+* [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
+* [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
+* [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
+* [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
+* [2024/04] **AI-powered Code Review with LLMs: Early Results.** *Rasheed et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.18496)]
+* [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+* 
+* [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
+* [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
+* [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
+* [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
+* [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
+* [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
+* [2023/12] **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation.** *Huang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2312.13010)]
+* [2023/11] **Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing.** *Yoon et al. Arxiv.* [[paper](https://arxiv.org/pdf/2311.08649)] [[repo](https://github.com/testing-agent/droidagent)]
+* [2023/10] **Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives.** *Hu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.01152)] [[repo](https://github.com/git-disl/GPTLens)]
+* [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
+* [2023/10] **White-box Compiler FuzzingEmpowered by Large Language Models.** *Yang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.15991)] [[repo](https://github.com/ise-uiuc/WhiteFox)]
+* [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.02424)]
+* [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Wu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.08155)] [[repo](https://github.com/microsoft/autogen)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/07] **Communicative Agents for Software Development.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
+* [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+* [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
+
+**Assistant Roles**
+
+* [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
+* [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
+* [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
+* [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
+* [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
+
+#### Collaboration Mechanism
+
+**Layered Structure**
+
+* [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
+* [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
+* [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
+* [2024/04] **AutoCodeRover: Autonomous Program Improvement.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.05427)] [[repo](https://github.com/nus-apr/auto-code-rover)]
+* [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
+* [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
+* [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
+* [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
+* [2024/02] **More Agents Is All You Need.** *Li et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.05120)]
+* [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
+* [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
+* [2023/10] **Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives.** *Hu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.01152)] [[repo](https://github.com/git-disl/GPTLens)]
+* [2023/10] **White-box Compiler FuzzingEmpowered by Large Language Models.** *Yang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.15991)] [[repo](https://github.com/ise-uiuc/WhiteFox)]
+* [2023/10] **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.** *Liu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.02170)] [[repo](https://github.com/SALT-NLP/DyLAN)]
+* [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
+* [2023/08] **Flows: Building Blocks of Reasoning and Collaborating AI.** *Josifoski et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.01285)] [[repo](https://github.com/epfl-dlab/cc_flows)]
+* [2023/07] **Communicative Agents for Software Development.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/04] **Low-code LLM: Visual Programming over LLMs.** *Cai et al. Arxiv.* [[paper](https://arxiv.org/pdf/2304.08103v3)] [[repo](https://github.com/chenfei-wu/TaskMatrix/tree/main/LowCodeLLM)]
+
+**Circular Structure**
+
+* [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. Arxiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
+* [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+* [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
+* [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. Arxiv.* [[paper](https://arxiv.org/pdf/2403.14274)]
+* [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
+* [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. Arxiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
+* [2023/12] **Experiential Co-Learning of Software-Developing Agents.** *Qian et al. Arxiv.* [[paper](https://arxiv.org/pdf/2312.17025)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/12] **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation.** *Huang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2312.13010)]
+* [2023/11] **INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2311.09868)] [[repo](https://github.com/NEUIR/INTERVENOR)]
+* [2023/11] **Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing.** *Yoon et al. Arxiv.* [[paper](https://arxiv.org/pdf/2311.08649)] [[repo](https://github.com/testing-agent/droidagent)]
+* [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.02424)]
+* [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. Arxiv.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
+* [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
+* [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning.** *Shinn et al. Arxiv.* [[paper](https://arxiv.org/pdf/2303.11366)] [[repo](https://github.com/noahshinn024/reflexion)]
+
+**Tree-like Structure**
+
+* [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. Arxiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
+* [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. Arxiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
+
+**Star-like Structure**
+
+* [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
+* [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
+* [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Wu et al. Arxiv.* [[paper](https://arxiv.org/pdf/2308.08155)] [[repo](https://github.com/microsoft/autogen)]
 
 <br/>
 
