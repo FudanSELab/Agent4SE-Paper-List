@@ -391,9 +391,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
 * [2024/04] **AutoCodeRover: Autonomous Program Improvement.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.05427)] [[repo](https://github.com/nus-apr/auto-code-rover)]
 * [2024/01] **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.06391)]
-* [2024/03] **ACFIX: Guiding LLMs with Mined Common
-RBAC Practices for Context-Aware Repair of
-Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
+* [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.07339)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
