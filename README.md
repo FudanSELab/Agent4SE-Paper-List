@@ -74,8 +74,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 * [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
 * [2024/04] **Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation.** *Ataei et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.16045)]
-* [2024/01] **SpecGen: Automated Generation of Formal
-  Program Specifications via Large Language Models.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.08807)] [[repo](https://sites.google.com/view/specgen)]
+* [2024/01] **SpecGen: Automated Generation of Formal Program Specifications via Large Language Models.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.08807)] [[repo](https://sites.google.com/view/specgen)]
 * [2023/10] **Advancing Requirements Engineering through Generative AI: Assessing the Role of LLMs.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.13976)]
 
 <br/>
