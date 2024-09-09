@@ -38,6 +38,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 * 📰 [News](#-news)
 * 🏎️ [Coming Soon](#%EF%B8%8F-coming-soon)
+* :star: [Star this repository](#star-star-this-repository)
 * 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#requirement-engineering)
   * [Code Generation](#code-generation)
