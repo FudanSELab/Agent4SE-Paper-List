@@ -357,8 +357,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/01] **LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.** *Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.16185)] [[repo](https://anonymous.4open.science/r/LLM4Vuln/)]
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. ACL.* [[paper](https://arxiv.org/pdf/2401.07339)]
 
-<br/>
-
 **File Operation**
 
 * [2024/04] **LLM Agents can Autonomously Exploit One-day Vulnerabilities.** *Fang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.08144)]
@@ -368,16 +366,12 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
 
-<br/>
-
 **GUI Operation**
 
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
 * [2023/10] **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** *Liu et al. ICSE.* [[paper](https://arxiv.org/pdf/2310.15780)]
 * [2023/06] **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** *Feng et al. ICSE.* [[paper](https://arxiv.org/pdf/2306.01987)] [[repo](https://github.com/sidongfeng/AdbGPT)]
 * [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. CHI.* [[paper](https://arxiv.org/pdf/2310.02424)]
-
-<br/>
 
 **Static Program Analysis**
 
@@ -402,8 +396,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
 
-<br/>
-
 **Dynamic Analysis**
 
 * [2024/04] **Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.04966)]
@@ -412,8 +404,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/07] **Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models.** *Tu et al. IEEE Trans. Software Eng..* [[paper](https://arxiv.org/pdf/2307.00593)] [[repo](https://github.com/haoxintu/LLM4CBI)]
 * [2024/03] **COVERUP: Coverage-Guided LLM-Based Test Generation.** *Pizzorno et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16218)] [[repo](https://github.com/plasma-umass/coverup)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
-
-<br/>
 
 **Testing Tools**
 
@@ -460,8 +450,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/01] **Conversational Automated Program Repair.** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2301.13246)]
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. ACL.* [[paper](https://arxiv.org/pdf/2401.07339)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
-
-<br/>
 
 **Fault Localization Tools**
 
@@ -576,6 +564,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
 * [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
 
+<br/>
+
 #### Collaboration Mechanism
 
 **Layered Structure**
@@ -639,6 +629,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
 * [2023/04] **Low-code LLM: Visual Programming over LLMs.** *Cai et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08103v3)] [[repo](https://github.com/chenfei-wu/TaskMatrix/tree/main/LowCodeLLM)]
 
+<br/>
+
 #### Requirements Phase
 
 * [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
@@ -647,6 +639,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/10] **ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification.** *Mu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.10996)] [[repo](https://github.com/ClarifyGPT/ClarifyGPT)]
 * [2023/06] **Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services.** *Xing et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.02230)]
 
+<br/>
+
 #### Development Phase
 
 * [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
@@ -654,6 +648,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/09] **MINT: EVALUATING LLMS IN MULTI-TURN INTERACTION WITH TOOLS AND LANGUAGE FEEDBACK.** *Wang et al. ICLR.* [[paper](https://arxiv.org/pdf/2309.10691)] [[repo](https://xingyaoww.github.io/mint-bench)]
 * [2023/08] **Flows: Building Blocks of Reasoning and Collaborating AI.** *Josifoski et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.01285)] [[repo](https://github.com/epfl-dlab/cc_flows)]
 * [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.08155)] [[repo](https://github.com/microsoft/autogen)]
+
+<br/>
 
 #### Evaluation Phase
 
