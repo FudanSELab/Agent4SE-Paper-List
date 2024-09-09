@@ -13,6 +13,12 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 <br/>
 
+## :star: Star this repository
+
+This research field is evolving rapidly; star this repository to keep up with the updates!
+
+
+
 ## 📰 News
 
 * **[2024/09/04]**  🎉 We released the first version of our survey on arXiv.
@@ -22,7 +28,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 ## 🏎️ Coming Soon
 
 - [x] Append the repository link to each paper.
-- [ ] Complete the list of all papers from Agent Perspectives.
+- [x] Complete the list of all papers from Agent Perspectives.
 - [ ] Provide an interactive table.
 
 <br/>
@@ -167,7 +173,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 * [2023/10] **White-box Compiler FuzzingEmpowered by Large Language Models.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.15991)] [[repo](https://github.com/ise-uiuc/WhiteFox)]
 * [2023/08] **PENTESTGPT: An LLM-empowered Automatic Penetration Testing Tool.** *Deng et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.06782)] [[repo](https://github.com/GreyDGL/PentestGPT)]
 * [2023/08] **Fuzz4All: Universal Fuzzing with Large Language Models.** *Xia et al. ICSE.* [[paper](https://arxiv.org/pdf/2308.04748)] [[repo](https://github.com/fuzz4all/fuzz4all)]
-* [2023/07] **Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models.** *Tu et al. IEEE Trans. Software Eng..* [[paper](https://arxiv.org/pdf/2307.00593)] [[repo](https://github.com/haoxintu/LLM4CBI)]
+* [2023/07] **Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models.** *Tu et al. IEEE Trans. Software Eng.* [[paper](https://arxiv.org/pdf/2307.00593)] [[repo](https://github.com/haoxintu/LLM4CBI)]
 * [2023/06] **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** *Feng et al. ICSE.* [[paper](https://arxiv.org/pdf/2306.01987)] [[repo](https://github.com/sidongfeng/AdbGPT)]
 
 <br/>
@@ -541,7 +547,6 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
 * [2024/04] **AI-powered Code Review with LLMs: Early Results.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.18496)]
 * [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
-* 
 * [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
