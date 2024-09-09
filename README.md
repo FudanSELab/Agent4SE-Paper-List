@@ -28,7 +28,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ## 🏎️ Coming Soon
 
 - [x] Append the repository link to each paper.
-- [x] Complete the list of all papers from Agent Perspectives.
+- [ ] Add a table to collect Agents from the industry (e.g. Devin, Cursor).
 - [ ] Provide an interactive table.
 
 <br/>
