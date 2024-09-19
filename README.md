@@ -183,7 +183,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 #### Fault Localization
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
-* [2023/08] **A Preliminary Evaluation of LLM-Based Fault Localization.** *Kang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.05487)]
+* [2023/08] **A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization**. *Kang et al. FSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3660771)]
 
 #### Program Repair
 * [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
