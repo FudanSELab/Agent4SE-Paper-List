@@ -133,7 +133,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 #### Static Bug Detection
 
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
-* [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.14274)]
+* [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. QRS.* [[paper](https://arxiv.org/pdf/2403.14274)]
 * [2024/01] **LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.** *Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.16185)] [[repo](https://anonymous.4open.science/r/LLM4Vuln/)]
 * [2023/12] **E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification.** *Hao et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.08477)]
 * [2023/10] **Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives.** *Hu et al. TPS-ISA.* [[paper](https://arxiv.org/pdf/2310.01152)] [[repo](https://github.com/git-disl/GPTLens)]
@@ -597,7 +597,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
 * [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
-* [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.14274)]
+* [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. QRS.* [[paper](https://arxiv.org/pdf/2403.14274)]
 * [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
 * [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
 * [2023/12] **Experiential Co-Learning of Software-Developing Agents.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2312.17025)] [[repo](https://github.com/OpenBMB/ChatDev)]
