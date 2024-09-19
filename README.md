@@ -186,7 +186,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/08] **A Preliminary Evaluation of LLM-Based Fault Localization.** *Kang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.05487)]
 
 #### Program Repair
-* [2024/04] **Flakiness Repair in the Era of Large Language Models.** *Chen et al. ICSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3639478.3641227)]
+* [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/02] **CigaR: Cost-efficient Program Repair with LLMs.** *Hidvégi et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]
@@ -411,6 +411,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Testing Tools**
 
+* [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
 * [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
@@ -420,7 +421,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/04] **LLM Agents can Autonomously Exploit One-day Vulnerabilities.** *Fang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.08144)]
 * [2024/04] **Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.04966)]
 * [2024/04] **AutoCodeRover: Autonomous Program Improvement.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.05427)] [[repo](https://github.com/nus-apr/auto-code-rover)]
-* [2024/04] **Flakiness Repair in the Era of Large Language Models.** *Chen et al. ICSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3639478.3641227)]
 * [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
 * [2024/03] **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing.** *He et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.13583)]
