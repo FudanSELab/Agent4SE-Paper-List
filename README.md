@@ -15,7 +15,7 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 ![image-20240921134539206](assets/structure.png)
 
-<br/>
+<br/>	
 
 ## :star: Star this repository
 
@@ -80,7 +80,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ## 🖥️ SE Perspectives
 
-<img src="assets/SE_tasks.png" alt="image-20240921134539206" style="zoom:80%;" />
+![SE_tasks](assets/SE_tasks.png)
+
+![End-to-end Software Development](assets/workflow.png)
+
+![End-to-end Software Maintenance](assets/IssueResolution.png)
 
 ### Requirement Engineering
 
@@ -579,6 +583,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Collaboration Mechanism
 
+![image-20240921143114665](../../../AppData/Roaming/Typora/typora-user-images/image-20240921143114665.png)
+
 **Layered Structure**
 
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
@@ -633,6 +639,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 <br/>
 
 ### Human-Agent Collaboration
+
+![image-20240921143135510](../../../AppData/Roaming/Typora/typora-user-images/image-20240921143135510.png)
 
 #### Planning Phase
 
