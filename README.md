@@ -583,7 +583,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Collaboration Mechanism
 
-![image-20240921143114665](../../../AppData/Roaming/Typora/typora-user-images/image-20240921143114665.png)
+![image-20240921143114665](assets/collaboration.png)
 
 **Layered Structure**
 
@@ -640,7 +640,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Human-Agent Collaboration
 
-![image-20240921143135510](../../../AppData/Roaming/Typora/typora-user-images/image-20240921143135510.png)
+![image-20240921143135510](assets/human-agent.png)
 
 #### Planning Phase
 
