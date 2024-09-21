@@ -11,6 +11,10 @@ The recent advance in Large Language Models (LLMs) has shaped a new paradigm of 
 
 :page_facing_up: Paper Link: [Large Language Model-Based Agents for Software Engineering: A Survey](http://arxiv.org/pdf/2409.02977)
 
+
+
+![image-20240921134539206](assets/structure.png)
+
 <br/>
 
 ## :star: Star this repository
@@ -76,6 +80,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ## 🖥️ SE Perspectives
 
+<img src="assets/SE_tasks.png" alt="image-20240921134539206" style="zoom:80%;" />
+
 ### Requirement Engineering
 
 * [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
@@ -85,7 +91,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 <br/>
 
-### Code Generation
+### Code Generation 
 
 * [2024/05] **Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository.** *Deshpande et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.01573)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
@@ -120,6 +126,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/06] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback.** *Yang et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2306.14898)] [[repo](https://intercode-benchmark.github.io/)]
 * [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. ICLR.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
 * [2023/05] **ToolCoder: Teach Code Generation Models to use API search tools.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.04032)]
+* [2023/05] **Self-Edit: Fault-Aware Code Editor for Code Generation**. *Zhang et al. ACL.* [[paper](https://aclanthology.org/2023.acl-long.45v3.pdf)]
 * [2023/04] **Teaching Large Language Models to Self-Debug.** *Chen et al. ICLR.* [[paper](https://arxiv.org/pdf/2304.05128)]
 * [2023/04] **Fully Autonomous Programming with Large Language Models.** *Liventsev et al. GECCO.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)]
 * [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
@@ -525,6 +532,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/07] **Communicative Agents for Software Development.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. ICLR.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
 * [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+* [2023/05] **Self-Edit: Fault-Aware Code Editor for Code Generation**. *Zhang et al. ACL.* [[paper](https://aclanthology.org/2023.acl-long.45v3.pdf)]
 * [2023/04] **Self-collaboration Code Generation via ChatGPT.** *Dong et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.07590)] [[repo](https://github.com/YihongDong/Self-collaboration-Code-Generation)]
 * [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
 
@@ -556,6 +564,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/07] **Communicative Agents for Software Development.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2023/06] **IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?.** *Olausson et al. ICLR.* [[paper](https://arxiv.org/pdf/2306.09896)] [[repo](https://github.com/theoxo/self-repair)]
 * [2023/06] **MULTI-AGENT COLLABORATION: HARNESSING THE POWER OF INTELLIGENT LLM AGENTS.** *Talebirad et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.03314)]
+* [2023/05] **Self-Edit: Fault-Aware Code Editor for Code Generation**. *Zhang et al. ACL.* [[paper](https://aclanthology.org/2023.acl-long.45v3.pdf)]
 * [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
 
 **Assistant Roles**
@@ -590,6 +599,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. ICLR.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
 * [2023/08] **Flows: Building Blocks of Reasoning and Collaborating AI.** *Josifoski et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.01285)] [[repo](https://github.com/epfl-dlab/cc_flows)]
 * [2023/07] **Communicative Agents for Software Development.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2307.07924)] [[repo](https://github.com/OpenBMB/ChatDev)]
+* [2023/05] **Self-Edit: Fault-Aware Code Editor for Code Generation**. *Zhang et al. ACL.* [paper](https://aclanthology.org/2023.acl-long.45v3.pdf)
 * [2023/04] **Low-code LLM: Visual Programming over LLMs.** *Cai et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08103v3)] [[repo](https://github.com/chenfei-wu/TaskMatrix/tree/main/LowCodeLLM)]
 
 **Circular Structure**
