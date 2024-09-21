@@ -80,11 +80,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ## 🖥️ SE Perspectives
 
-![SE_tasks](assets/SE_tasks.png)
-
-![End-to-end Software Development](assets/workflow.png)
-
-![End-to-end Software Maintenance](assets/IssueResolution.png)
+![SE_tasks](assets/SEtasks.png)
 
 ### Requirement Engineering
 
@@ -583,7 +579,9 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Collaboration Mechanism
 
-![image-20240921143114665](assets/collaboration.png)
+<div style="text-align: center;">
+  <img src="assets/collaboration.png" alt="Collaboration" style="width: 50%;">
+</div>
 
 **Layered Structure**
 
@@ -640,7 +638,9 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Human-Agent Collaboration
 
-![image-20240921143135510](assets/human-agent.png)
+<div style="text-align: center;">
+  <img src="assets/human-agent.png" alt="Human-Agent">
+</div>
 
 #### Planning Phase
 
