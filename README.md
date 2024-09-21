@@ -100,6 +100,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
 * [2024/03] **AutoDev: Automated AI-Driven Development**. *Tufano et al. arXiv* [[paper](https://arxiv.org/pdf/2403.08299)]
 * [2024/03] **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing.** *He et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.13583)]
+* [2024/03] **RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**. *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.05313)] [[repo](https://github.com/CraftJarvis/RAT)]
 * [2024/02] **Executable Code Actions Elicit Better LLM Agents.** *Wang et al. ICML.* [[paper](https://arxiv.org/pdf/2402.01030)] [[repo](https://github.com/xingyaoww/code-act)]
 * [2024/02] **More Agents Is All You Need.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.05120)]
 * [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
@@ -273,6 +274,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Multi-turn Planning**
 
+* [2024/03] **RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**. *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.05313)] [[repo](https://github.com/CraftJarvis/RAT)]
+
 *React-like*
 
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
@@ -351,6 +354,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/03] **AutoDev: Automated AI-Driven Development**. *Tufano et al. arXiv* [[paper](https://arxiv.org/pdf/2403.08299)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
 * [2024/03] **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing.** *He et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.13583)]
+* [2024/03] **RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**. *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.05313)] [[repo](https://github.com/CraftJarvis/RAT)]
 * [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
 * [2024/01] **LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.** *Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.16185)] [[repo](https://anonymous.4open.science/r/LLM4Vuln/)]
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. ACL.* [[paper](https://arxiv.org/pdf/2401.07339)]
