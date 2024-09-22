@@ -214,6 +214,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### End-to-end Software Development
 
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
 * [2024/05] **Iterative Experience Refinement of Software-Developing Agents.** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.04219)]
@@ -299,6 +300,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 #### Memory
 
 **Long-term Memory**
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/05] **Iterative Experience Refinement of Software-Developing Agents.** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.04219)]
 * [2023/12] **Experiential Co-Learning of Software-Developing Agents.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2312.17025)] [[repo](https://github.com/OpenBMB/ChatDev)]
@@ -310,6 +312,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Short-term Memory**
 
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
 * [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
@@ -610,6 +613,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 * [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
@@ -650,11 +654,13 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Tree-like Structure**
 
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
 * [2024/04] **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization.** *Ishibashi et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.02183)] [[repo](https://github.com/tsukushiAI/self-organized-agent)]
 
 **Star-like Structure**
 
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/03] **AutoDev: Automated AI-Driven Development**. *Tufano et al. arXiv* [[paper](https://arxiv.org/pdf/2403.08299)]
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
 * [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
@@ -662,6 +668,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Mesh Structure**
 
+* [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/04] **3DGen: AI-Assisted Generation of Provably Correct Binary Format Parsers**. *Fakhoury et al. arXiv* [[paper](https://arxiv.org/pdf/2404.10362)]
 
 <br/>
