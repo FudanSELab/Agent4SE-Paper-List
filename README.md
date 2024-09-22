@@ -236,6 +236,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### End-to-end Software Maintenance
 
+* [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
 * [2024/07] **Agentless: Demystifying LLM-based Software Engineering Agents.** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.01489)] [[repo](https://github.com/OpenAutoCoder/Agentless)]
 * [2024/06] **How to Understand Whole Software Repository?.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.01422)] [[repo](https://github.com/RepoUnderstander/RepoUnderstander)]
@@ -589,6 +590,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Assistant Roles**
 
+* [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
 * [2024/06] **MASAI: Modular Architecture for Software-engineering AI Agents.** *Arora et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11638)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
@@ -606,6 +608,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Layered Structure**
 
+* [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
