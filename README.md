@@ -143,7 +143,10 @@ This research field is evolving rapidly; star this repository to keep up with th
 #### Static Bug Detection
 
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
+* [2024/05] **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.02580)] [[repo](https://sites.google.com/view/propertygpt)]
 * [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. QRS.* [[paper](https://arxiv.org/pdf/2403.14274)]
+* [2024/03] **Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16073)] [[repo](https://sites.google.com/view/iaudittool/home)]
+* [2024/02] **When Dataflow Analysis Meets Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.10754)]
 * [2024/01] **LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.** *Sun et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.16185)] [[repo](https://anonymous.4open.science/r/LLM4Vuln/)]
 * [2023/12] **E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification.** *Hao et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.08477)]
 * [2023/10] **Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives.** *Hu et al. TPS-ISA.* [[paper](https://arxiv.org/pdf/2310.01152)] [[repo](https://github.com/git-disl/GPTLens)]
@@ -164,6 +167,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Unit Testing
 
+* [2024/06] **Mokav: Execution-driven Differential Testing with LLMs.** *Etemadi et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.10375)] [[repo](https://github.com/ASSERT-KTH/Mokav)]
 * [2024/04] **Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.04966)]
 * [2024/03] **AutoDev: Automated AI-Driven Development**. *Tufano et al. arXiv* [[paper](https://arxiv.org/pdf/2403.08299)]
 * [2024/03] **COVERUP: Coverage-Guided LLM-Based Test Generation.** *Pizzorno et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16218)] [[repo](https://github.com/plasma-umass/coverup)]
@@ -174,6 +178,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### System Testing
 
+* [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/04] **LLM Agents can Autonomously Exploit One-day Vulnerabilities.** *Fang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.08144)]
 * [2024/02] **You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models.** *Decrop et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.05102)] [[repo](https://doi.org/10.5281/zenodo.10377255)]
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
@@ -182,6 +187,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/10] **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** *Liu et al. ICSE.* [[paper](https://arxiv.org/pdf/2310.15780)]
 * [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. CHI.* [[paper](https://arxiv.org/pdf/2310.02424)]
 * [2023/10] **White-box Compiler FuzzingEmpowered by Large Language Models.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.15991)] [[repo](https://github.com/ise-uiuc/WhiteFox)]
+* [2023/10] **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** *Liu et al. ICSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639118)] [[repo](https://github.com/franklinbill/InputBlaster)]
 * [2023/08] **PENTESTGPT: An LLM-empowered Automatic Penetration Testing Tool.** *Deng et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.06782)] [[repo](https://github.com/GreyDGL/PentestGPT)]
 * [2023/08] **Fuzz4All: Universal Fuzzing with Large Language Models.** *Xia et al. ICSE.* [[paper](https://arxiv.org/pdf/2308.04748)] [[repo](https://github.com/fuzz4all/fuzz4all)]
 * [2023/07] **Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models.** *Tu et al. IEEE Trans. Software Eng.* [[paper](https://arxiv.org/pdf/2307.00593)] [[repo](https://github.com/haoxintu/LLM4CBI)]
@@ -192,12 +198,15 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Debugging
 
 #### Fault Localization
+
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
 * [2023/08] **A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization**. *Kang et al. FSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3660771)]
 
 #### Program Repair
+
 * [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
+* [2024/04] **How Far Can We Go with Practical Function-Level Program Repair?.** *Xiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/02] **CigaR: Cost-efficient Program Repair with LLMs.** *Hidvégi et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]
@@ -258,6 +267,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 #### Planning
 
 **Single-turn Planning**
+
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
@@ -315,6 +325,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Short-term Memory**
 
+* [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
@@ -347,10 +358,12 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Visual Input**
 
+* [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
+* [2024/06] **Experimenting with Multi-Agent Software Development: Towards a Unified Platform** *Sami et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05381)]
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
 * [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. CHI.* [[paper](https://arxiv.org/pdf/2310.02424)]
+* [2023/10] **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** *Liu et al. ICSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639118)] [[repo](https://github.com/franklinbill/InputBlaster)]
 * [2023/08] **METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK.** *Hong et al. ICLR.* [[paper](https://arxiv.org/pdf/2308.00352)] [[repo](https://github.com/geekan/MetaGPT)]
-* [2024/06] **Experimenting with Multi-Agent Software Development: Towards a Unified Platform** *Sami et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05381)]
 
 <br/>
 
@@ -396,9 +409,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **GUI Operation**
 
+* [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
 * [2023/10] **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** *Liu et al. ICSE.* [[paper](https://arxiv.org/pdf/2310.15780)]
 * [2023/10] **AXNav: Replaying Accessibility Tests from Natural Language.** *Taeb et al. CHI.* [[paper](https://arxiv.org/pdf/2310.02424)]
+* [2023/10] **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** *Liu et al. ICSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639118)] [[repo](https://github.com/franklinbill/InputBlaster)]
 * [2023/06] **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** *Feng et al. ICSE.* [[paper](https://arxiv.org/pdf/2306.01987)] [[repo](https://github.com/sidongfeng/AdbGPT)]
 
 
@@ -417,6 +432,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/03] **COVERUP: Coverage-Guided LLM-Based Test Generation.** *Pizzorno et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16218)] [[repo](https://github.com/plasma-umass/coverup)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
+* [2024/02] **When Dataflow Analysis Meets Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.10754)]
 * [2024/02] **LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step.** *Zhong et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.16906)] [[repo](https://github.com/FloridSleeves/LLMDebugger)]
 * [2024/01] **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.06391)]
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. ACL.* [[paper](https://arxiv.org/pdf/2401.07339)]
@@ -572,6 +588,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 **Software Quality Assurance Roles**
 
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
+* [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/06] **Experimenting with Multi-Agent Software Development: Towards a Unified Platform** *Sami et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05381)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology.** *Nguyen et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.11912)] [[repo](https://github.com/FSoft-AI4Code/AgileCoder)]
@@ -581,8 +598,10 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/04] **AI-powered Code Review with LLMs: Early Results.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.18496)]
 * [2024/04] **3DGen: AI-Assisted Generation of Provably Correct Binary Format Parsers**. *Fakhoury et al. arXiv* [[paper](https://arxiv.org/pdf/2404.10362)]
 * [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+* [2024/04] **How Far Can We Go with Practical Function-Level Program Repair?.** *Xiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 * [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
+* [2024/03] **Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16073)] [[repo](https://sites.google.com/view/iaudittool/home)]
 * [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
@@ -612,6 +631,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
 * [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
 * [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
+* [2024/03] **Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16073)] [[repo](https://sites.google.com/view/iaudittool/home)]
 * [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
 
 <br/>
@@ -633,9 +653,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
 * [2024/05] **MARE: Multi-Agents Collaboration Framework for Requirements Engineering.** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.03256)]
 * [2024/04] **AutoCodeRover: Autonomous Program Improvement.** *Zhang et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680384)] [[repo](https://github.com/nus-apr/auto-code-rover)]
+* [2024/04] **How Far Can We Go with Practical Function-Level Program Repair?.** *Xiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 * [2024/03] **CodeS: Natural Language to Code Repository via Multi-Layer Sketch.** *Zan et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16443)] [[repo](https://github.com/NL2Code/CodeS)]
 * [2024/03] **When LLM-based Code Generation Meets the Software Development Process.** *Lin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.15852)] [[repo](https://anonymous.4open.science/r/FlowGen-LLM-E842)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
+* [2024/02] **When Dataflow Analysis Meets Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.10754)]
 * [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
 * [2024/02] **More Agents Is All You Need.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.05120)]
 * [2024/01] **Experimenting a New Programming Practice with LLMs.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01062)] [[repo](https://drive.google.com/drive/folders/1i0UWqy1K4WwaCLnb7yhyQfV8UqjdXSkl?usp=sharing)]
@@ -656,6 +678,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
 * [2024/03] **ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts.** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06838)]
 * [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. QRS.* [[paper](https://arxiv.org/pdf/2403.14274)]
+* [2024/03] **Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** *Ma et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16073)] [[repo](https://sites.google.com/view/iaudittool/home)]
 * [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
 * [2024/02] **CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.01411)]
 * [2023/12] **Experiential Co-Learning of Software-Developing Agents.** *Qian et al. ACL.* [[paper](https://arxiv.org/pdf/2312.17025)] [[repo](https://github.com/OpenBMB/ChatDev)]
