@@ -260,6 +260,13 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/04] **AutoCodeRover: Autonomous Program Improvement.** *Zhang et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680384)] [[repo](https://github.com/nus-apr/auto-code-rover)]
 * [2024/03] **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution.** *Tao et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17927)]
 
+**Benchmark**
+* [2024/10] **SWE-Bench+: Enhanced Coding Benchmark for LLMs** *Aleithan et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.06992)]
+* [2024/10] **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.03859)] [[repo](https://www.swebench.com/multimodal)]
+* [2024/08] **SWE-bench-java: A GitHub Issue Resolving Benchmark for Java** *Zan et al. arXiv* [[paper](https://arxiv.org/pdf/2408.14354)] [[repo](https://github.com/multi-swe-bench/multi-swe-bench-env)]
+* [2024/07] **Agentless: Demystifying LLM-based Software Engineering Agents.** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.01489)] [[repo](https://github.com/OpenAutoCoder/Agentless)]
+* [2023/10] **Swe-bench: Can language models resolve real-world github issues?** *Jimenez et al. ICLR* [[paper](https://arxiv.org/pdf/2310.06770)] [[repo](https://www.swebench.com)]
+
 <br/>
 
 ## 🤖 Agent Perspectives
