@@ -94,6 +94,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Code Generation 
 
 * [2024/10] **AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories** *Song et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.07706)]
+* [2024/10] **RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING** *Gehring et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.02089)]
 * [2024/05] **Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository.** *Deshpande et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.01573)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
 * [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
@@ -367,6 +368,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 **Visual Input**
 
+* [2024/10] **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.03859)] [[repo](https://www.swebench.com/multimodal)]
 * [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/06] **Experimenting with Multi-Agent Software Development: Towards a Unified Platform** *Sami et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05381)]
 * [2024/01] **XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.02705)]
