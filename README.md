@@ -143,6 +143,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Static Bug Detection
 
+* [2024/10] **LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.09381)] [[repo](https://github.com/LLMAudit/LLMSmartAuditTool)]
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
 * [2024/05] **PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.02580)] [[repo](https://sites.google.com/view/propertygpt)]
 * [2024/03] **Multi-role Consensus through LLMs Discussions for Vulnerability Detection.** *Mao et al. QRS.* [[paper](https://arxiv.org/pdf/2403.14274)]
