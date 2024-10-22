@@ -157,7 +157,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/03] **ART: Automatic multi-step reasoning and tool-use for large language models.** *Paranjape et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.09014)] [[repo](https://github.com/bhargaviparanjape/language-programmes/)]
 
 #### Code Review
-
+* [2024/10] **Agent-as-a-Judge: Evaluate Agents with Agents** *Zhuge et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.10934?)] [[repo](https://github.com/metauto-ai/agent-as-a-judge)] 
 * [2024/04] **AI-powered Code Review with LLMs: Early Results.** *Rasheed et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.18496)]
 * [2024/02] **CodeAgent: Collaborative Agents for Software Engineering.** *Tang et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.02172.pdf)] [[repo](https://github.com/Code4Agent/codeagent)]
 * [2023/10] **Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis.** *Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.08837)]
