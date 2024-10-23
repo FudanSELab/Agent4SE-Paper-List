@@ -205,7 +205,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Debugging
 
 #### Fault Localization
-
+* [2024/09] **Enhancing Fault Localization Through Ordered Code Analysis with LLM Agents and Self-Reflection** *Rafi et al. arXiv* [[paper](https://arxiv.org/pdf/2409.13642)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
 * [2023/08] **A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization**. *Kang et al. FSE.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3660771)]
