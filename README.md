@@ -56,6 +56,7 @@ This research field is evolving rapidly; star this repository to keep up with th
     * [Fault Localization](#fault-localization)
     * [Program Repair](#program-repair)
     * [Unified Debugging](#unified-debugging)
+  * [Release](#release)
   * [End-to-end Software Development](#end-to-end-software-development)
   * [End-to-end Software Maintenance](#end-to-end-software-maintenance)
 * 🤖[Agent Perspectives](#-agent-perspectives)
@@ -231,6 +232,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 * [2024/04] **A Unified Debugging Approach via LLM-Based Multi-Agent Synergy.** *Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
 * [2024/02] **LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step.** *Zhong et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.16906)] [[repo](https://github.com/FloridSleeves/LLMDebugger)]
+
+<br/>
+
+### Release
+* [2024/08] **GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making** *Khoee et al. arXiv* [[paper](https://arxiv.org/pdf/2408.09785)]
 
 <br/>
 
