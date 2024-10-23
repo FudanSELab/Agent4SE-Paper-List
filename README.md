@@ -45,6 +45,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#requirement-engineering)
   * [Code Generation](#code-generation)
+  * [Verification](#verification)
   * [Static Code Checking](#static-checking)
     * [Static Bug Detection](#static-bug-detection)
     * [Code Review](#code-review)
@@ -61,7 +62,7 @@ This research field is evolving rapidly; star this repository to keep up with th
   * [Agent Framework](#agent-framework)
     * [Planning](#planning)
     * [Memory](#memory)
-    * [Perception](#perception)
+    * [Perception](#perception)ß
     * [Action](#action)
   * [Multi-agent System](#multi-agent-system)
     * [Agent Roles](#agent-roles)
@@ -140,6 +141,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2023/03] **CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society.** *Li et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17760)] [[repo](https://github.com/camel-ai/camel)]
 * [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning.** *Shinn et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.11366)] [[repo](https://github.com/noahshinn024/reflexion)]
 * [2023/03] **SELF-REFINE: Iterative Refinement with Self-Feedback.** *Madaan et al. NeurIPS.* [[paper](https://arxiv.org/pdf/2303.17651)] [[repo](https://selfrefine.info/)]
+
+<br/>
+
+### Verification
+* [2024/09] **AutoVerus: Automated Proof Generation for Rust Code** *Yang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.13082)]
 
 <br/>
 
