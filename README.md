@@ -254,7 +254,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 <br/>
 
 ### End-to-end Software Maintenance
-
+* [2024/09] **MarsCode Agent: AI-native Automated Bug Fixing** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2409.00899)] 
 * [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
 * [2024/08] **SpecRover: Code Intent Extraction via LLMs** *Ruan et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.02232)] [[repo](https://autocoderover.dev/)]
 * [2024/07] **Agentless: Demystifying LLM-based Software Engineering Agents.** *Xia et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.01489)] [[repo](https://github.com/OpenAutoCoder/Agentless)]
