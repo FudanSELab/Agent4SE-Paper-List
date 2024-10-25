@@ -63,7 +63,7 @@ This research field is evolving rapidly; star this repository to keep up with th
   * [Agent Framework](#agent-framework)
     * [Planning](#planning)
     * [Memory](#memory)
-    * [Perception](#perception)ß
+    * [Perception](#perception)
     * [Action](#action)
   * [Multi-agent System](#multi-agent-system)
     * [Agent Roles](#agent-roles)
@@ -95,6 +95,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Code Generation 
 
+* [2024/10] **Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.15625)]
 * [2024/10] **AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories** *Song et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.07706)]
 * [2024/10] **RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING** *Gehring et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.02089)]
 * [2024/10] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *Choudhury et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.05434)]
@@ -147,6 +148,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 <br/>
 
 ### Verification
+* [2024/10] **Automated Proof Generation for Rust Code via Self-Evolution** *Chen et al. arXiv* [[paper](https://arxiv.org/pdf/2410.15625)] 
 * [2024/09] **AutoVerus: Automated Proof Generation for Rust Code** *Yang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.13082)]
 
 <br/>
