@@ -95,6 +95,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Code Generation 
 
+* [2024/10] **MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification** *Li et al. arXiv* [[paper](https://arxiv.org/pdf/2410.15154)] [[repo](https://github.com/MCCodeAI/MCCoder)]
 * [2024/10] **Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.15625)]
 * [2024/10] **AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories** *Song et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.07706)]
 * [2024/10] **RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING** *Gehring et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.02089)]
@@ -156,7 +157,6 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Static Code Checking
 
 #### Static Bug Detection
-
 * [2024/10] **Leveraging Fine-Tuned Language Models for Efficient and Accurate Smart Contract Auditing** *Wei et al. arXiv* [[paper](https://arxiv.org/pdf/2410.13918)] [[repo](https://github.com/LLMSmartAudit/FTSmartAudit)]
 * [2024/10] **LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.09381)] [[repo](https://github.com/LLMAudit/LLMSmartAuditTool)]
 * [2024/05] **LLM-Assisted Static Analysis for Detecting Security Vulnerabilities.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.17238)]
