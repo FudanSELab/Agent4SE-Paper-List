@@ -222,6 +222,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Program Repair
 
+* [2024/10] **Semantic-guided Search for Efficient Program Repair with Large Language Models** *Thanh et al. arXiv* [[paper](https://arxiv.org/pdf/2410.16655)]
 * [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
 * [2024/04] **How Far Can We Go with Practical Function-Level Program Repair?.** *Xiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 * [2024/03] **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair.** *Bouzenia et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.17134)]
