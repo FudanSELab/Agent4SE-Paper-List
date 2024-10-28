@@ -27,21 +27,11 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 * **[2024/09/04]**  🎉 We released the first version of our survey on arXiv.
 
-<br/>
-
-## 🏎️ Coming Soon
-
-- [x] Append the repository link to each paper.
-- [ ] Add a table to collect Agents from the industry (e.g. Devin, Cursor).
-- [ ] Provide an interactive table.
-
-<br/>
 
 
 ## Table of Contents
 
 * 📰 [News](#-news)
-* 🏎️ [Coming Soon](#%EF%B8%8F-coming-soon)
 * 🖥️ [SE Perspectives](#%EF%B8%8F-se-perspectives)
   * [Requirement Engineering](#requirement-engineering)
   * [Code Generation](#code-generation)
@@ -96,6 +86,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Code Generation 
 
 * [2024/10] **MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification** *Li et al. arXiv* [[paper](https://arxiv.org/pdf/2410.15154)] [[repo](https://github.com/MCCodeAI/MCCoder)]
+* [2024/10] **Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents** *Liu et al. arXiv* [[paper](https://arxiv.org/pdf/2410.14209)] [[repo](https://hotbento.github.io/Agent4PLC/)]
 * [2024/10] **Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.15625)]
 * [2024/10] **AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories** *Song et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.07706)]
 * [2024/10] **RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING** *Gehring et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.02089)]
