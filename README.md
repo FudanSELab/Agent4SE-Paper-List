@@ -86,6 +86,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Code Generation 
 
 * [2024/10] **Multi-Programming Language Sandbox for LLMs** *Dou et al. arXiv* [[paper](https://arxiv.org/pdf/2410.23074)]
+* [2024/10] **SceneGenAgent: Precise Industrial Scene Generation with Coding Agent** *Xia et al. arXiv* [[paper](https://arxiv.org/pdf/2410.21909)] [[repo](https://github.com/THUDM/SceneGenAgent)]
 * [2024/10] **MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification** *Li et al. arXiv* [[paper](https://arxiv.org/pdf/2410.15154)] [[repo](https://github.com/MCCodeAI/MCCoder)]
 * [2024/10] **Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents** *Liu et al. arXiv* [[paper](https://arxiv.org/pdf/2410.14209)] [[repo](https://hotbento.github.io/Agent4PLC/)]
 * [2024/10] **Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.15625)]
