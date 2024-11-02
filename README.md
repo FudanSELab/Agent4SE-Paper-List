@@ -95,6 +95,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/10] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *Choudhury et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.05434)]
 * [2024/10] **AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation** *Luo et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.00558?)] [[repo](https://github.com/ChiYeungLaw/AMR-Evol)]
 * [2024/10] **RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.01242)]
+* [2024/09] **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** *Zhang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.05001)] [[repo](https://github.com/nju-websoft/PairCoder)]
 * [2024/08] **CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.03910?)] [[repo](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)]
 * [2024/05] **Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository.** *Deshpande et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.01573)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
