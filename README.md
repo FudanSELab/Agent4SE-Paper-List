@@ -95,6 +95,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/10] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *Choudhury et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.05434)]
 * [2024/10] **AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation** *Luo et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.00558?)] [[repo](https://github.com/ChiYeungLaw/AMR-Evol)]
 * [2024/10] **RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.01242)]
+* [2024/09] **AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing** *Nunez et al. arXiv* [[paper](https://arxiv.org/pdf/2409.10737)] [[repo](https://github.com/SecureAIAutonomyLab/AutoSafeCoder)]
 * [2024/09] **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** *Zhang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.05001)] [[repo](https://github.com/nju-websoft/PairCoder)]
 * [2024/08] **CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.03910?)] [[repo](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)]
 * [2024/07] **OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS** *Wang et al. arXiv* [[paper](https://arxiv.org/pdf/2407.16741)] [[repo](https://github.com/All-Hands-AI/OpenHands)]
@@ -180,6 +181,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Unit Testing
 
+* [2024/09] **Python Symbolic Execution with LLM-powered Code Generation** *Wang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.09271)]
 * [2024/06] **Mokav: Execution-driven Differential Testing with LLMs.** *Etemadi et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.10375)] [[repo](https://github.com/ASSERT-KTH/Mokav)]
 * [2024/04] **Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.04966)]
 * [2024/03] **AutoDev: Automated AI-Driven Development**. *Tufano et al. arXiv* [[paper](https://arxiv.org/pdf/2403.08299)]
