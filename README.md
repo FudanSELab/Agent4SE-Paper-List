@@ -97,6 +97,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/10] **RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance** *Jin et al. arXiv.* [[paper](https://arxiv.org/pdf/2410.01242)]
 * [2024/09] **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** *Zhang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.05001)] [[repo](https://github.com/nju-websoft/PairCoder)]
 * [2024/08] **CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.03910?)] [[repo](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)]
+* [2024/07] **OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS** *Wang et al. arXiv* [[paper](https://arxiv.org/pdf/2407.16741)] [[repo](https://github.com/All-Hands-AI/OpenHands)]
 * [2024/05] **Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository.** *Deshpande et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.01573)]
 * [2024/05] **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving.** *Islam et al. ACL.* [[paper](https://arxiv.org/pdf/2405.11403)] [[repo](https://github.com/Md-Ashraful-Pramanik/MapCoder)]
 * [2024/05] **AutoCoder: Enhancing Code Large Language Model with AIEV-INSTRUCT.** *Lei et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.14906)] [[repo](https://github.com/bin123apple/AutoCoder)]
@@ -217,6 +218,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Program Repair
 
+* [2024/07] **OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS** *Wang et al. arXiv* [[paper](https://arxiv.org/pdf/2407.16741)] [[repo](https://github.com/All-Hands-AI/OpenHands)]
 * [2024/10] **Semantic-guided Search for Efficient Program Repair with Large Language Models** *Thanh et al. arXiv* [[paper](https://arxiv.org/pdf/2410.16655)]
 * [2024/09] **Neurosymbolic Repair of Test Flakiness**. *Chen et al. ISSTA.* [[paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680369)]
 * [2024/04] **How Far Can We Go with Practical Function-Level Program Repair?.** *Xiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
