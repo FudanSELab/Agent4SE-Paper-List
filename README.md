@@ -265,6 +265,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 <br/>
 
 ### End-to-end Software Maintenance
+* [2024/11] **Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement** *Ma et al. arXiv* [[paper](https://arxiv.org/pdf/2411.00622)] [[repo](https://github.com/LingmaTongyi/Lingma-SWE-GPT)]
 * [2024/09] **MarsCode Agent: AI-native Automated Bug Fixing** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2409.00899)] 
 * [2024/08] **CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.03910?)] [[repo](https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent)]
 * [2024/08] **DIVERSITY EMPOWERS INTELLIGENCE:INTEGRAT-ING EXPERTISE OF SOFTWARE ENGINEERING AGENTS** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.07060 )]
