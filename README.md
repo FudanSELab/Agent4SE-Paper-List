@@ -85,6 +85,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Code Generation 
 
+* [2024/11] **Chain-of-Programming: Empowering Large Language Models for Geospatial Code Generation** *Hou et al. arXiv* [[paper](https://arxiv.org/pdf/2411.10753)]
 * [2024/10] **Multi-Programming Language Sandbox for LLMs** *Dou et al. arXiv* [[paper](https://arxiv.org/pdf/2410.23074)]
 * [2024/10] **SceneGenAgent: Precise Industrial Scene Generation with Coding Agent** *Xia et al. arXiv* [[paper](https://arxiv.org/pdf/2410.21909)] [[repo](https://github.com/THUDM/SceneGenAgent)]
 * [2024/10] **MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification** *Li et al. arXiv* [[paper](https://arxiv.org/pdf/2410.15154)] [[repo](https://github.com/MCCodeAI/MCCoder)]
@@ -216,6 +217,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 ### Debugging
 
 #### Fault Localization
+* [2024/11] **FlexFL: Flexible and Effective Fault Localization with Open-Source Large Language Models** *Xu et al. arXiv* [[paper](https://arxiv.org/pdf/2411.10714)]
 * [2024/09] **Enhancing Fault Localization Through Ordered Code Analysis with LLM Agents and Self-Reflection** *Rafi et al. arXiv* [[paper](https://arxiv.org/pdf/2409.13642)]
 * [2024/03] **AGENTFL: Scaling LLM-based Fault Localization to Project-Level Context.** *Qin et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.16362)]
 * [2023/10] **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.16340)]
