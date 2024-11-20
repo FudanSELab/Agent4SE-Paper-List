@@ -182,6 +182,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### Unit Testing
 
+* [2024/11] **ReAccept: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models** *Chi et al. arXiv* [[paper](https://arxiv.org/pdf/2411.11033)] [[repo](https://github.com/Timiyang-ai/REACCEPT.git)]
 * [2024/09] **Python Symbolic Execution with LLM-powered Code Generation** *Wang et al. arXiv* [[paper](https://arxiv.org/pdf/2409.09271)]
 * [2024/06] **Mokav: Execution-driven Differential Testing with LLMs.** *Etemadi et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.10375)] [[repo](https://github.com/ASSERT-KTH/Mokav)]
 * [2024/04] **Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis.** *Yang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.04966)]
