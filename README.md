@@ -194,6 +194,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 #### System Testing
 
+* [2024/11] **A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation** *Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2411.11532)]
 * [2024/07] **Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model.** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.03037)] [[repo](https://github.com/testtestA6/VisionDroid)]
 * [2024/04] **LLM Agents can Autonomously Exploit One-day Vulnerabilities.** *Fang et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.08144)]
 * [2024/02] **You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models.** *Decrop et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.05102)] [[repo](https://doi.org/10.5281/zenodo.10377255)]
