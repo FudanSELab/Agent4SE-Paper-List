@@ -250,8 +250,8 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### End-to-end Software Development
 
-* [2024/11] **Empowering Agile-Based Generative Software Development through Human-AI Teamwork** *Zhang et al. arXiv* [[paper](https://arxiv.org/pdf/2407.15568)] [[repo](https://github.com/UGAIForge/AgileGen)]
 * [2024/09] **Generating Java code pairing with ChatGPT** *Zhao et al. Theoretical Computer Science* [[paper](https://www.sciencedirect.com/science/article/pii/S0304397524004961)] 
+* [2024/07] **Empowering Agile-Based Generative Software Development through Human-AI Teamwork** *Zhang et al. TOSEM* [[paper](https://arxiv.org/pdf/2407.15568)] [[repo](https://github.com/UGAIForge/AgileGen)]
 * [2024/06] **Experimenting with Multi-Agent Software Development: Towards a Unified Platform** *Sami et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.05381)]
 * [2024/06] **Scaling Large-Language-Model-based Multi-Agent Collaboration** *Qian et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.07155)] [[repo](https://github.com/OpenBMB/ChatDev)]
 * [2024/06] **Multi-Agent Software Development through Cross-Team Collaboration.** *Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2406.08979)] [[repo](https://github.com/OpenBMB/ChatDev)]
