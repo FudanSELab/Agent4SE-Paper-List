@@ -85,6 +85,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### Code Generation 
 
+* [2024/11] **Planning-Driven Programming: A Large Language Model Programming Workflow** *Lei et al. arXiv* [[paper](https://arxiv.org/pdf/2411.14503)]
 * [2024/11] **Chain-of-Programming: Empowering Large Language Models for Geospatial Code Generation** *Hou et al. arXiv* [[paper](https://arxiv.org/pdf/2411.10753)]
 * [2024/10] **Multi-Programming Language Sandbox for LLMs** *Dou et al. arXiv* [[paper](https://arxiv.org/pdf/2410.23074)]
 * [2024/10] **SceneGenAgent: Precise Industrial Scene Generation with Coding Agent** *Xia et al. arXiv* [[paper](https://arxiv.org/pdf/2410.21909)] [[repo](https://github.com/THUDM/SceneGenAgent)]
