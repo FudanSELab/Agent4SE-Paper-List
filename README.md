@@ -277,6 +277,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 
 ### End-to-end Software Maintenance
 * [2024/11] **LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues** *Lin et al. arXiv* [[paper](https://arxiv.org/pdf/2411.13941)]
+* [2024/11] **Human-In-the-Loop Software Development Agents** *Takerngsaksiri et al. arXiv* [[paper](https://arxiv.org/pdf/2411.12924)]
 * [2024/11] **Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement** *Ma et al. arXiv* [[paper](https://arxiv.org/pdf/2411.00622)] [[repo](https://github.com/LingmaTongyi/Lingma-SWE-GPT)]
 * [2024/10] **RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph** *Ouyang et al. arXiv* [[paper](https://arxiv.org/pdf/2410.14684)] [[repo](https://github.com/ozyyshr/RepoGraph)]
 * [2024/09] **MarsCode Agent: AI-native Automated Bug Fixing** *Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2409.00899)] 
