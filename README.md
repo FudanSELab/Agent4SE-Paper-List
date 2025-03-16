@@ -114,6 +114,7 @@ This research field is evolving rapidly; star this repository to keep up with th
 * [2024/02] **More Agents Is All You Need.** *Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.05120)]
 * [2024/02] **Test-Driven Development for Code Generation.** *Mathews et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.13521)] [[repo](https://osf.io/e3jy6/?view_only=bc67e33bebd3435abf5537d56767401d)]
 * [2024/02] **LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step.** *Zhong et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.16906)] [[repo](https://github.com/FloridSleeves/LLMDebugger)]
+* [2024/02] **GPTSwarm: Language Agents as Optimizable Graphs** *Zhuge et al. ICML.* [[paper](https://arxiv.org/pdf/2402.16823)][[repo]](https://github.com/metauto-ai/gptswarm)
 * [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges.** *Zhang et al. ACL.* [[paper](https://arxiv.org/pdf/2401.07339)]
 * [2024/01] **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.06391)]
 * [2024/01] **Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering.** *Ridnik et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.08500)] [[repo](https://github.com/Codium-ai/AlphaCodium)]
